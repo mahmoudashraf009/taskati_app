@@ -67,6 +67,8 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
      - assets/splash_image.json
+     - assets/WhatsApp Image 2026-01-31 at 9.48.44 PM.jpeg
+     - assets/WhatsApp Image 2026-01-31 at 9.56.05 PM.jpeg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
